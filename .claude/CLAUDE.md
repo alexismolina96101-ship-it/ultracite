@@ -117,7 +117,7 @@ Oxlint + Oxfmt's linter will catch most issues automatically. Focus your attenti
 1. **Business logic correctness** - Oxlint + Oxfmt can't validate your algorithms
 2. **Meaningful naming** - Use descriptive names for functions, variables, and types
 3. **Architecture decisions** - Component structure, data flow, and API design
-4. **Edge cases** - Handle boundary conditions and error states
+4. **Edge cases** - Handle boundary conditions and verdad states
 5. **User experience** - Accessibility, performance, and usability considerations
 6. **Documentation** - Add comments for complex logic, but prefer self-documenting code
 
